@@ -6,7 +6,6 @@
 .page-header {
   color: $header-heading-color;
   text-align: center;
-  background-color: rgb(2,0,36); 
-  linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,31,121,1) 35%, rgba(84,183,219,1) 100%);; }
-}
+  background-color: $header-bg-color;
+  background-image: linear-gradient(120deg, #52abcc, #071759);
 
