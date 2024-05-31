@@ -1,2 +1,2 @@
-# jameszabarelos.github.io
+# researcher bio
 researcher bio
