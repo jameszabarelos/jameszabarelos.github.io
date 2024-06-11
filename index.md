@@ -1,2 +1,1 @@
-# researcher bio
-researcher bio
+Researcher biography for James
